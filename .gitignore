@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.venv/
+dados/
+__pycache__/
+*.pyc
+/Previas-vozes-Radar/
+/Comparar-vozes-Radar.html
+/Radar de Achadinhos.html
+/*.mp3
+/*.mp4
+/*.zip
